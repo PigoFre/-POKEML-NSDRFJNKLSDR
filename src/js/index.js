@@ -1,1 +1,2 @@
-console.log("Welcome to HTML5 Template!");
+import boot from "./game/boot";
+document.addEventListener("DOMContentLoaded", boot);

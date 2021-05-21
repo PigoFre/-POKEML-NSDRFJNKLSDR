@@ -18,7 +18,7 @@ module.exports = {
     entry: entryPoints,
     module: {
         rules: [
-            {
+            /*{
                 enforce: "pre",
                 test: /\.m?js$/i,
                 exclude: /node_modules/,
@@ -26,7 +26,7 @@ module.exports = {
                 options: {
                     cache: true,
                 }
-            },
+            },*/
             {
                 test: /\.m?js$/i,
                 exclude: /node_modules/,
