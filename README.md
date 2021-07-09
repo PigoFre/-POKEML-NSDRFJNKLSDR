@@ -1,5 +1,5 @@
 # PokeHTML5-client
-###### Made by a game&web developer trying to increase him portfolio.
+###### Made by a game&web developer trying to increase him portfolio. WIP project, not working now.
 
 _A full open source Pokémon-based game with 151 originals Pokémon using HTML5 + CSS + JavaScript. Using websocket to real-time interaction in overworld with turn-based battles with PVP and ranks for competitive purpouse._
 
